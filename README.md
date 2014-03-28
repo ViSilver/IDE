@@ -1,6 +1,5 @@
 IDE
 ===
- new
 samsing
 
 
