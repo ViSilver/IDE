@@ -1,7 +1,6 @@
 IDE
 ===
  
- :W
 samsing
 
 
